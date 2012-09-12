@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fast Fingers</string>
+    <string name="main_start">Start</string>
+    <string name="main_options">Options</string>
+    <string name="main_highscores">Highscores</string>
+    <string name="main_exit">Exit</string>
+    <string name="survival_end">Try again</string>
+    <string name="play_timetrial">Time Trial</string>
+    <string name="play_survival">Survival</string>
+    <string name="timetrial_puntuacion1">Your score is </string>
+    <string name="timetrial_puntuacion2">.</string>
+    
+</resources>

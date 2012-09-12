@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/play_timetrial"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:text="@string/play_timetrial"
+        android:layout_marginTop="165dip"/>
+
+
+    <Button
+        android:id="@+id/play_survival"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/play_survival"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_weight="0.5"
+        android:layout_marginBottom="165dip"/>
+
+</LinearLayout>
